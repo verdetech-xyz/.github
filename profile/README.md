@@ -1,4 +1,4 @@
-# 🌱 🌍 VerdeTech
+# VerdeTech
 
 Especialistas em Vue.js, Nuxt, Laravel e JavaScript, desenvolvemos soluções de alto desempenho para clientes em todo o mundo. Nossa equipe brasileira combina expertise técnica com entendimento das demandas internacionais.
 
